@@ -1,0 +1,13 @@
+{
+    "name": "your-app-name",
+    "version": "1.0.0",
+    "description": "",
+    "main": "puppeteerScript.js",
+    "scripts": {
+      "start": "node puppeteerScript.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "puppeteer": "^21.7.0"
+    }
+  }
